@@ -1,5 +1,4 @@
 
 
 Download the code & run **npm install** to install dependencies before starting the app.
-
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+**json-server --watch db.json --port 3004** to laucnh the server
